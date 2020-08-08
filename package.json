@@ -1,0 +1,24 @@
+{
+  "name": "api-node-typescript",
+  "version": "1.0.0",
+  "description": "Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelpllopes/api-node-typescript.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "typescript"
+  ],
+  "author": "Rafael Pereira de Lacerda Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelpllopes/api-node-typescript/issues"
+  },
+  "homepage": "https://github.com/rafaelpllopes/api-node-typescript#readme"
+}
