@@ -9,3 +9,17 @@ Curso de criação de API Node.js
 - Typescript
 - yarn
 - module-alias
+
+### node_modules
+
+#### devDependencies
+
+- @types/module-alias
+- @types/node
+- @typescript-eslint/eslint-plugin
+- @typescript-eslint/parser": "^3.8.0
+- eslint
+- typescript
+
+#### dependencies
+- module-alias
