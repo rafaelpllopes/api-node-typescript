@@ -4,6 +4,8 @@
   "description": "Node.js API",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node dist/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,12 +15,20 @@
   "keywords": [
     "nodejs",
     "typescript",
-    "typescript"
+    "api"
   ],
   "author": "Rafael Pereira de Lacerda Lopes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rafaelpllopes/api-node-typescript/issues"
   },
-  "homepage": "https://github.com/rafaelpllopes/api-node-typescript#readme"
+  "homepage": "https://github.com/rafaelpllopes/api-node-typescript#readme",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.0",
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
 }
