@@ -19,6 +19,7 @@ Curso de criação de API Node.js
 - @typescript-eslint/eslint-plugin
 - @typescript-eslint/parser
 - eslint
+- ts-node-dev
 - typescript
 
 #### dependencies
