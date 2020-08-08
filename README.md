@@ -17,7 +17,7 @@ Curso de criação de API Node.js
 - @types/module-alias
 - @types/node
 - @typescript-eslint/eslint-plugin
-- @typescript-eslint/parser": "^3.8.0
+- @typescript-eslint/parser
 - eslint
 - typescript
 
