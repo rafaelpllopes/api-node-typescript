@@ -14,6 +14,7 @@ Curso de criação de API Node.js
 
 #### devDependencies
 
+- @types/express
 - @types/jest
 - @types/module-alias
 - @types/node
@@ -28,4 +29,8 @@ Curso de criação de API Node.js
 - typescript
 
 #### dependencies
+
+- @overnightjs/core
+- body-parser
+- express
 - module-alias
